@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3695eb26-289f-4972-8906-b96a3244ccff" name="Default Changelist" comment="" />
+    <list default="true" id="3695eb26-289f-4972-8906-b96a3244ccff" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Luyen tap html/dinh dang.html" afterDir="false" />
+    </list>
+    <list id="6e0c1736-a2bf-46c5-8362-de855e69b973" name="Revert &quot;lenh co ban&quot;" comment="Revert &quot;lenh co ban&quot;&#10;&#10;This reverts commit 1b4cc563">
+      <change beforePath="$PROJECT_DIR$/../Bai_1.html" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -17,10 +29,11 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Bai_1 cac the noi dung.html" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Luyen tap html/Bai_3.html" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -32,11 +45,42 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1614830508924</updated>
-      <workItem from="1614830510109" duration="2065000" />
+      <workItem from="1614830510109" duration="5301000" />
     </task>
+    <task id="LOCAL-00001" summary="Revert &quot; them thu muc khac&quot;&#10;&#10;This reverts commit b66bf564">
+      <created>1614839174172</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1614839174172</updated>
+    </task>
+    <task id="LOCAL-00002" summary="&#10;tro ve phien ban 2">
+      <created>1614839292766</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1614839292766</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Revert &quot; them thu muc khac&quot;&#10;&#10;This reverts commit b66bf564" />
+    <MESSAGE value="&#10;tro ve phien ban 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="&#10;tro ve phien ban 2" />
   </component>
 </project>
