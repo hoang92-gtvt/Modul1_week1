@@ -1,0 +1,33 @@
+h1 {background: coral;
+    z-index:10 ;
+    width: 500;
+    height: 100;
+    text-align: center;
+    margin-top: 0px;
+
+    }
+#form1 {background: aquamarine;
+    width: 800px;
+    Height: 500px;
+    z-index: 5;
+    font-size: 30px;
+    border-width: 5px;
+    }
+#h_t { position: absolute;
+        left: 150px;
+        top:160px;
+ }
+#email{ position: absolute;
+    left: 150px;
+    top: 200px;
+}
+#form2 {background:orange;
+    width: 800px;
+    Height: 500px;
+    z-index: 5;
+    font-size: 30px;
+    border-width: 5px;
+    position: absolute;
+    left: 1000px;
+    top:50px;
+}
