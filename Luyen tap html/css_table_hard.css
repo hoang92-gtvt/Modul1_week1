@@ -1,0 +1,38 @@
+td {
+    height: 100px;
+    width: 100px;
+
+}
+
+#tba { z-index:100;
+    position: relative;
+    top:98px;
+    left:85px;
+
+}
+th {
+    background-color: coral;
+    height: 100px;
+    width: 100px;
+    font-size: 40px;
+
+}
+#tab2 { z-index:5;
+    position: relative;
+    top:-820px;
+    left:0px;
+
+}
+tr:nth-child(odd)  td:nth-child(even) {
+    background-color: black;
+}
+tr:nth-child(even)  td:nth-child(odd) {
+    background-color: black;
+}
+
+tr:nth-child(odd)  td:nth-child(odd) {
+    background-color: white;
+}
+tr:nth-child(even)  td:nth-child(even) {
+    background-color: white;
+}
